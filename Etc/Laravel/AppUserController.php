@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\AppUser;
 use Illuminate\Http\Request;
-use Resouses\Views\app_user
+use Resouses\Views\app_user;
 
 class AppUserController extends Controller
 {
