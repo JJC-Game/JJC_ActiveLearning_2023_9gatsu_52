@@ -1,5 +1,5 @@
 <?php
-
+Route::get('/app_user/{id}', [AppUserController::class, 'app_user'])->name('al.app_user');
 use Illuminate\Support\Facades\Route;
 
 /*
